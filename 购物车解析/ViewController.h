@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+@property (nonatomic, assign) BOOL isHinddenAddBtn;//用来判断 从特殊店铺进入  需要隐藏添加商品按钮
 @end
 

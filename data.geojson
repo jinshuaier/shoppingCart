@@ -1,0 +1,257 @@
+{
+    "retValue": 4,
+    "retMessage": "已返回数据！",
+    "data": {
+        "shop": {
+            "id": 494,
+            "catid": 4,
+            "name": "大洋百货（总店)",
+            "remark": " ",
+            "headPic": "http://img.moumou001.com/shop/4625/494_head_.png",
+            "headThumbs": {
+                "t0": "http://img.moumou001.com/shop/4625/494_head_.png_thumb120.png",
+                "t1": "http://img.moumou001.com/shop/4625/494_head_.png_thumb200.png"
+            },
+            "auth": 0,
+            "address": "5号院",
+            "locaddress": "北京市通州区榆西二街靠近华远达电力工程有限公司(总部)",
+            "shopTime": "08:10-08:10",
+            "startPrice": "0.01",
+            "distributionPrice": "0.50",
+            "createTime": "2016-10-28 11:05:29",
+            "updateTime": "2017-06-30 10:34:49",
+            "mid": 4625,
+            "shopkeeperid": 762,
+            "belongUpId": 24098,
+            "status": 1,
+            "orderCount": 0,
+            "commentCount": 0,
+            "distributionTime": "",
+            "rank": "5.0",
+            "goodsRank": "0.0",
+            "serviceRank": "0.0",
+            "tel": "18811480412",
+            "latitude": "39.9422",
+            "lontitude": "116.635124",
+            "license": "",
+            "defaultGoods": 0,
+            "deliveryTime": 0,
+            "bounStatus": 3,
+            "bondStart": "2017-06-16 14:02:14",
+            "bondEnd": "2017-06-16 14:02:14",
+            "servStatus": 0,
+            "servTime": "0000-00-00 00:00:00",
+            "sid": 0,
+            "area": "20000.00",
+            "noAuthReason": "",
+            "isService": 0,
+            "sort": 0,
+            "catname": "大型超市"
+        },
+        "activity": [],
+        "offline": "",
+        "cat_list": [
+                     {
+                     "id": "58",
+                     "name": "生活食品",
+                     "sort": "12",
+                     "upid": "0",
+                     "childs": [
+                                {
+                                "id": "34",
+                                "name": "牛奶",
+                                "sort": "13",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "92",
+                                "name": "酸奶",
+                                "sort": "12",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "59",
+                                "name": "面包",
+                                "sort": "11",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "28",
+                                "name": "方便面",
+                                "sort": "10",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "91",
+                                "name": "火腿肠",
+                                "sort": "9",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "60",
+                                "name": "冷冻速食",
+                                "sort": "8",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "94",
+                                "name": "常温速食",
+                                "sort": "7",
+                                "upid": "58"
+                                },
+                                {
+                                "id": "81",
+                                "name": "冰激凌",
+                                "sort": "6",
+                                "upid": "58"
+                                }
+                                ]
+                     },
+                     {
+                     "id": "86",
+                     "name": "水果蔬菜",
+                     "sort": "6",
+                     "upid": "0",
+                     "childs": [
+                                {
+                                "id": "15",
+                                "name": "蔬菜",
+                                "sort": "2",
+                                "upid": "86"
+                                },
+                                {
+                                "id": "12",
+                                "name": "水果",
+                                "sort": "1",
+                                "upid": "86"
+                                }
+                                ]
+                     },
+                     {
+                     "id": "71",
+                     "name": "清洁洗护",
+                     "sort": "5",
+                     "upid": "0",
+                     "childs": [
+                                {
+                                "id": "37",
+                                "name": "纸品湿巾",
+                                "sort": "9",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "107",
+                                "name": "卫生巾",
+                                "sort": "8",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "84",
+                                "name": "口腔护理",
+                                "sort": "7",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "11",
+                                "name": "洗发护发",
+                                "sort": "6",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "108",
+                                "name": "面部护肤",
+                                "sort": "5",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "109",
+                                "name": "沐浴洗护",
+                                "sort": "4",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "110",
+                                "name": "衣物清洁",
+                                "sort": "3",
+                                "upid": "71"
+                                },
+                                {
+                                "id": "111",
+                                "name": "厨卫/家居清洁",
+                                "sort": "2",
+                                "upid": "71"
+                                }
+                                ]
+                     },
+                     {
+                     "id": "66",
+                     "name": "日用百货",
+                     "sort": "4",
+                     "upid": "0",
+                     "childs": [
+                                {
+                                "id": "112",
+                                "name": "收纳/洗晒",
+                                "sort": "11",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "113",
+                                "name": "家用电器",
+                                "sort": "10",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "114",
+                                "name": "一次性用品",
+                                "sort": "9",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "115",
+                                "name": "烹饪锅具",
+                                "sort": "8",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "116",
+                                "name": "水具/餐具",
+                                "sort": "7",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "117",
+                                "name": "厨房配件",
+                                "sort": "6",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "72",
+                                "name": "驱蚊杀虫芳香类",
+                                "sort": "5",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "118",
+                                "name": "鞋袜类",
+                                "sort": "4",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "119",
+                                "name": "五金灯具",
+                                "sort": "3",
+                                "upid": "66"
+                                },
+                                {
+                                "id": "120",
+                                "name": "其它百货",
+                                "sort": "2",
+                                "upid": "66"
+                                }
+                                ]
+                     }
+                     ],
+        "goods_list": []
+    }
+}
